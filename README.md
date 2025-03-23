@@ -1,2 +1,15 @@
 # PiOxide
 Kingswood School's submission for PA Consultings Raspberry Pi Competition 2025. PiOxide is a raspberry pi project designed to measure CO2 levels in classrooms with the Adafruit SCD-40 CO2 sensor!
+
+While it is often thought of as a largely harmless gas, CO2 has surprisingly large effects on our mental health and cognitive function, especially among children. 
+The Bohr effect shows that CO2, much like carbon monoxide, can reduce the blood’s ability to carry oxygen. Even in a room with typical CO2 levels, this can lead to drowsiness and a lack of concentration which actively inhibits learning and attention. Some studies show that in order to keep CO2 levels below 1000 parts per million, the air in a room may have to be fully replaced up to 5 times a day, especially if it is busy.
+We realised that this has huge implications on learning in schools, as often classrooms can be left unventilated for days, slowly becoming stuffier and building up with CO2 from the near hundreds of children entering them per day, not to mention increasing air pollution. 
+We decided that this was an issue that could not go unnoticed, so set out to create a product to fix it.
+To address the problem at its root, we determined that a device which could help a school find the exact cause of high CO2 levels would be invaluable. The best way of doing this is through monitoring and analysing air quality in classrooms, so we made something to do exactly that. 
+Our product can monitor the CO2 concentration, humidity, and temperature against time in a room 24/7. There are no peripherals required to do this, so collecting data is as easy as just plugging it in. When you want to access the records, you can simply attach a monitor and keyboard. Our product includes a program to process and plot the recorded data, so you can quickly analyse trends and patterns. This can be used in schools or businesses to try and find the root cause of high CO2 concentrations, or to monitor the effectiveness of certain preventative measures they have in place.
+We currently have a working prototype for our product which is easy to replicate, and can reliably collect air quality data. We plan to improve the product by adding more functionality to improve usability, such as a single GUI controlled program to access all features of the device in one curated place. Additionally, we plan to open source all the code to allow anyone to download the files, set up the device, and instantly start taking charge of their air quality.
+In the near future, we will release this product to local schools as a project for their budding software engineers to build themselves. This not only gives the school a valuable tool for creating healthier learning environments, but also brings with it a valuable educational experience for their students.
+We hope you consider our entry, and help us to build towards a more positive future for healthy and productive learning one classroom at a time.
+
+Video presentation of product:
+https://www.youtube.com/watch?v=nxgA09HyaoY
